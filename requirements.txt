@@ -1,0 +1,6 @@
+discord
+colorama
+requests
+pyPrivnote
+win10toast
+type-color
